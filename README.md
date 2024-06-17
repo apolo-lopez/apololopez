@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apololopez
 - 👀 I’m interested in development, adventures and travel
-- 🌱 I’m currently learning python and mobile development
+- 🌱 I’m passionate about crafting innovative experiences, transforming ideas into reality with cutting-edge solutions
 - 💞️ I’m looking to collaborate on any special or incredible project
 - 📫 How to reach me https://www.linkedin.com/in/apolo-lopez
 <!---
